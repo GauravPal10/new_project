@@ -1,6 +1,6 @@
-# AsOf — Historical SQL Evaluation
+# As Of — Historical SQL Evaluation
 
-AsOf checks whether an AI model can write SQL that calculates a report using **only the information available at a specified past time**.
+As Of checks whether an AI model can write SQL that calculates a report using **only the information available at a specified past time**.
 
 This project is an evaluation tool. Its output is a pass/fail result and an explanation of which test cases a SQL answer got wrong. It runs locally using Python and SQLite.
 
