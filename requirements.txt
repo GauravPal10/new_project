@@ -1,0 +1,2 @@
+# No third-party packages required. Python 3.11+ with its sqlite3 module.
+# Tested runtime versions are recorded in results/local_validation.json.

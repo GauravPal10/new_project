@@ -1,0 +1,15 @@
+ASOF EVALUATION PACKAGE
+
+1. Extract the ZIP. Open README.md in the asof_eval folder.
+2. Open a terminal in that folder.
+3. Use Python 3.11 or later. Run: python demo.py
+4. Run: python check_project.py
+5. Look for DEMO VERIFIED and ALL CHECKS PASSED.
+6. README.md explains the project and how to evaluate actual model answers.
+
+This package includes six SQL evaluation tasks, reference answers, a grader,
+tests, research notes, a video plan, and instructions for collecting results.
+It has NO real model results yet. Local grader validation is not evidence that
+an AI model failed. Participant review and model trials are still required.
+
+Optional API support is included but not used automatically.
